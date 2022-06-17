@@ -35,26 +35,26 @@ and submit your work.
 
 1. Is Protocol-Delegate considered to be an architectural pattern?
 
-   - [ ]  Yes
+   - [X]  Yes
    - [ ]  No
 
 2. You can unwrap optional properties using (select all that apply):
 
-   - [ ]  `guard let`
+   - [X]  `guard let`
    - [ ]  `private func`
-   - [ ]  `if let`
-   - [ ]  `nil-coalescing`
+   - [X]  `if let`
+   - [X]  `nil-coalescing`
 
 3. When navigating backwards from a detail view to a table view,
    the table view's `viewDidLoad` function will run again.
 
-   - [ ] True
+   - [X] True
    - [ ] False
 
 4. The Notification-Listener communication pattern is a:
 
    - [ ]  One to Many communication pattern
-   - [ ]  One to One communication pattern
+   - [X]  One to One communication pattern
    - [ ]  One to Zero communication pattern
    - [ ]  Zero to One communication pattern
 
@@ -62,36 +62,36 @@ and submit your work.
 
    - [ ]  Cancel, Apply, Default
    - [ ]  Cancel, Apply, Destructive
-   - [ ]  Cancel, Default, Destructive
+   - [X]  Cancel, Default, Destructive
    - [ ]  `UIAlertActions` do not have 3 styles
 
 6. The Equatable Protocol allows you to:
 
     - [ ]  Save objects into JSON Data
-    - [ ]  Compare two objects
+    - [X]  Compare two objects
     - [ ]  Delete tableView rows
 
 7. A segue requires an identifier.
 
-   - [ ]  True
+   - [X]  True
    - [ ]  False
 
 8. A custom cell is an example of a:
 
-   - [ ]  View
+   - [X]  View
    - [ ]  Model
    - [ ]  Model Controller
    - [ ]  View Controller
 
 9. A class can simultaneously be a delegate for multiple protocols.
 
-    - [ ]  True
+    - [X]  True
     - [ ]  False
 
 10. A reuse identifier is necessary for both a table view controller,
     and a collection view controller.
 
-    - [ ]  True
+    - [X]  True
     - [ ]  False
 
 ### Part 2 -- Shopping List App
